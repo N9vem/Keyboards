@@ -20,4 +20,4 @@ BOM
 - 1 1206 resistor 300-500 Ω
 
 Optional
-1 EVQP0 switch for reset button
+- 1 EVQP0 switch for reset button
