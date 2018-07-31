@@ -1,6 +1,8 @@
-Duchamp keyboard
+Duchamp keyboard - The first pcb I ever finished
 
-This is my first pcb I ever finished.
+WARNING this pcb is untested yet
+
+The board uses the larger pro micro which is mounted normally (the USB is facing downwards).
 
 This PCB is may not be compatible with planck cases: the switch distance is 19.05 mm.
 
@@ -8,3 +10,14 @@ This PCB is may not be compatible with planck cases: the switch distance is 19.0
 ![duchamp_keyboard_back](https://user-images.githubusercontent.com/22597009/43445567-082eae2c-94a7-11e8-924c-eaf628a3a1a0.png)
 
 PCB size: 76 x 223.5 mm
+
+BOM
+1 large pro micro
+47 cherry style keyboard witch
+47 high speed diode, MiniMELF or through-hole
+47 WS2812B LED
+47 1206 capacitor ~100 nF
+1 1206 resistor 300-500 Ω
+
+Optional
+1 EVQP0 switch for reset button
