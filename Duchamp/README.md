@@ -12,12 +12,12 @@ This PCB is may not be compatible with planck cases: the switch distance is 19.0
 PCB size: 76 x 223.5 mm
 
 BOM
-1 large pro micro
-47 cherry style keyboard witch
-47 high speed diode, MiniMELF or through-hole
-47 WS2812B LED
-47 1206 capacitor ~100 nF
-1 1206 resistor 300-500 Ω
+- 1 large pro micro
+- 47 cherry style keyboard witch
+- 47 high speed diode, MiniMELF or through-hole
+- 47 WS2812B LED
+- 47 1206 capacitor ~100 nF
+- 1 1206 resistor 300-500 Ω
 
 Optional
 1 EVQP0 switch for reset button
