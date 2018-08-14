@@ -1,2 +1,2 @@
 # Keyboards
-My public keyboards
+My public keyboards, layouts or keyboard ideas, mostly work in progress.
