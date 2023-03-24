@@ -1,0 +1,111 @@
+
+(rules PCB duchamp_keyboard
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 19275)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 3.9)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.3)
+    )
+  )
+  (rule
+    (width 300.0)
+    (clear 300.2)
+    (clear 150.0 (type smd_to_turn_gap))
+    (clear 400.2 (type default_Power))
+    (clear 75.0 (type smd_smd))
+    (clear 400.2 (type smd_Power))
+    (clear 400.2 (type "kicad_default"_Power))
+    (clear 400.2 (type Power_Power))
+  )
+  (padstack "Via[0-1]_600:400_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_600:400_um" "Via[0-1]_600:400_um" default
+  )
+  (via 
+    "Via[0-1]_600:400_um-kicad_default" "Via[0-1]_600:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_600:400_um-Power" "Via[0-1]_600:400_um" Power
+  )
+  (via_rule
+    default "Via[0-1]_600:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_600:400_um-kicad_default"
+  )
+  (via_rule
+    Power "Via[0-1]_600:400_um-Power"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 300.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    ROW1 ROW2 ROW3 ROW0 "Net-(LED101-Pad2)" DIN "Net-(LED102-Pad2)" "Net-(LED103-Pad2)"
+    "Net-(LED104-Pad2)" "Net-(LED105-Pad2)" "Net-(LED106-Pad2)" "Net-(LED107-Pad2)" "Net-(LED108-Pad2)" "Net-(LED109-Pad2)" "Net-(LED110-Pad2)" "Net-(LED111-Pad2)"
+    "Net-(LED112-Pad2)" "Net-(LED113-Pad2)" "Net-(LED114-Pad2)" "Net-(LED115-Pad2)" "Net-(LED116-Pad2)" "Net-(LED117-Pad2)" "Net-(LED118-Pad2)" "Net-(LED119-Pad2)"
+    "Net-(LED120-Pad2)" "Net-(LED121-Pad2)" "Net-(LED122-Pad2)" "Net-(LED123-Pad2)" "Net-(LED124-Pad2)" "Net-(LED125-Pad2)" "Net-(LED126-Pad2)" "Net-(LED127-Pad2)"
+    "Net-(LED128-Pad2)" "Net-(LED129-Pad2)" "Net-(LED130-Pad2)" "Net-(LED131-Pad2)" "Net-(LED132-Pad2)" "Net-(LED133-Pad2)" "Net-(LED134-Pad2)" "Net-(LED135-Pad2)"
+    "Net-(LED136-Pad2)" "Net-(LED137-Pad2)" "Net-(LED138-Pad2)" "Net-(LED139-Pad2)" "Net-(LED140-Pad2)" "Net-(LED141-Pad2)" "Net-(LED142-Pad2)" "Net-(LED143-Pad2)"
+    "Net-(LED144-Pad2)" "Net-(LED145-Pad2)" "Net-(LED146-Pad2)" RST COL0 "Net-(D101-Pad2)" COL1 "Net-(D102-Pad2)"
+    COL2 "Net-(D103-Pad2)" COL3 "Net-(D104-Pad2)" COL4 "Net-(D105-Pad2)" COL5 "Net-(D106-Pad2)"
+    COL6 "Net-(D107-Pad2)" "Net-(D108-Pad2)" "Net-(D109-Pad2)" "Net-(D110-Pad2)" "Net-(D111-Pad2)" "Net-(D112-Pad2)" "Net-(D113-Pad2)"
+    "Net-(D114-Pad2)" "Net-(D115-Pad2)" "Net-(D116-Pad2)" "Net-(D117-Pad2)" "Net-(D118-Pad2)" "Net-(D119-Pad2)" "Net-(D120-Pad2)" "Net-(D121-Pad2)"
+    "Net-(D122-Pad2)" "Net-(D123-Pad2)" "Net-(D124-Pad2)" "Net-(D125-Pad2)" "Net-(D126-Pad2)" "Net-(D127-Pad2)" "Net-(D128-Pad2)" "Net-(D129-Pad2)"
+    "Net-(D130-Pad2)" "Net-(D131-Pad2)" "Net-(D132-Pad2)" "Net-(D133-Pad2)" "Net-(D134-Pad2)" "Net-(D135-Pad2)" "Net-(D136-Pad2)" "Net-(D137-Pad2)"
+    "Net-(D138-Pad2)" "Net-(D139-Pad2)" "Net-(D140-Pad2)" "Net-(D141-Pad2)" "Net-(D142-Pad2)" "Net-(D143-Pad2)" "Net-(D144-Pad2)" "Net-(D145-Pad2)"
+    "Net-(D146-Pad2)" "Net-(D147-Pad2)" "Net-(LED101-Pad4)" COL7 COL8 COL9 COL10 COL11
+    "Net-(J_ledstrip1-Pad2)"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 300.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class Power
+    GND VCC
+    (clearance_class Power)
+    (via_rule Power)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

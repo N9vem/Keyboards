@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "duchamp_keyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/duchamp_keyboard-rescue.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/promicro.lib")(options "")(descr ""))
+)

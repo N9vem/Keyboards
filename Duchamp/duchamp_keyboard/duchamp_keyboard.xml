@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/jenei/Google Drive/Keyboards/My Keyboards/Duchamp Keyboard/duchamp_keyboard/duchamp_keyboard.sch</source>
+    <date>18/07/31 09:55:10</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>duchamp_keyboard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW101">
+      <value>s1</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585014C1</tstamp>
+    </comp>
+    <comp ref="D101">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585014E6</tstamp>
+    </comp>
+    <comp ref="SW102">
+      <value>s2</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585015C4</tstamp>
+    </comp>
+    <comp ref="D102">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585015CA</tstamp>
+    </comp>
+    <comp ref="SW103">
+      <value>s3</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585016EE</tstamp>
+    </comp>
+    <comp ref="D103">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585016F4</tstamp>
+    </comp>
+    <comp ref="SW104">
+      <value>s4</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585016FE</tstamp>
+    </comp>
+    <comp ref="D104">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501704</tstamp>
+    </comp>
+    <comp ref="SW105">
+      <value>s5</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501B8D</tstamp>
+    </comp>
+    <comp ref="D105">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501B93</tstamp>
+    </comp>
+    <comp ref="SW106">
+      <value>s6</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501B9D</tstamp>
+    </comp>
+    <comp ref="D106">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501BA3</tstamp>
+    </comp>
+    <comp ref="SW107">
+      <value>s7</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501BAE</tstamp>
+    </comp>
+    <comp ref="D107">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58501BB4</tstamp>
+    </comp>
+    <comp ref="SW108">
+      <value>s8</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504063</tstamp>
+    </comp>
+    <comp ref="D108">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504069</tstamp>
+    </comp>
+    <comp ref="SW109">
+      <value>s9</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504073</tstamp>
+    </comp>
+    <comp ref="D109">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504079</tstamp>
+    </comp>
+    <comp ref="SW110">
+      <value>s10</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504083</tstamp>
+    </comp>
+    <comp ref="D110">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504089</tstamp>
+    </comp>
+    <comp ref="SW111">
+      <value>s11</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504093</tstamp>
+    </comp>
+    <comp ref="D111">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58504099</tstamp>
+    </comp>
+    <comp ref="SW112">
+      <value>s12</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585040A5</tstamp>
+    </comp>
+    <comp ref="D112">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585040AB</tstamp>
+    </comp>
+    <comp ref="SW113">
+      <value>s13</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585040B5</tstamp>
+    </comp>
+    <comp ref="D113">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585040BB</tstamp>
+    </comp>
+    <comp ref="SW114">
+      <value>s14</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585040C5</tstamp>
+    </comp>
+    <comp ref="D114">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585040CB</tstamp>
+    </comp>
+    <comp ref="SW115">
+      <value>s15</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C74D</tstamp>
+    </comp>
+    <comp ref="D115">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C753</tstamp>
+    </comp>
+    <comp ref="SW116">
+      <value>s16</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C75D</tstamp>
+    </comp>
+    <comp ref="D116">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C763</tstamp>
+    </comp>
+    <comp ref="SW117">
+      <value>s17</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C76D</tstamp>
+    </comp>
+    <comp ref="D117">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C773</tstamp>
+    </comp>
+    <comp ref="SW118">
+      <value>s18</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C77D</tstamp>
+    </comp>
+    <comp ref="D118">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C783</tstamp>
+    </comp>
+    <comp ref="SW119">
+      <value>s19</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C78F</tstamp>
+    </comp>
+    <comp ref="D119">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C795</tstamp>
+    </comp>
+    <comp ref="SW120">
+      <value>s20</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C79F</tstamp>
+    </comp>
+    <comp ref="D120">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C7A5</tstamp>
+    </comp>
+    <comp ref="SW121">
+      <value>s21</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C7AF</tstamp>
+    </comp>
+    <comp ref="D121">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C7B5</tstamp>
+    </comp>
+    <comp ref="SW122">
+      <value>s22</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C81B</tstamp>
+    </comp>
+    <comp ref="D122">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C821</tstamp>
+    </comp>
+    <comp ref="SW123">
+      <value>s23</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C82B</tstamp>
+    </comp>
+    <comp ref="D123">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C831</tstamp>
+    </comp>
+    <comp ref="SW124">
+      <value>s24</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C83B</tstamp>
+    </comp>
+    <comp ref="D124">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C841</tstamp>
+    </comp>
+    <comp ref="SW125">
+      <value>s25</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C84B</tstamp>
+    </comp>
+    <comp ref="D125">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C851</tstamp>
+    </comp>
+    <comp ref="SW126">
+      <value>s26</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C85D</tstamp>
+    </comp>
+    <comp ref="D126">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C863</tstamp>
+    </comp>
+    <comp ref="SW127">
+      <value>s27</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C86D</tstamp>
+    </comp>
+    <comp ref="D127">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5850C873</tstamp>
+    </comp>
+    <comp ref="LED101">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A72E456</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A733477</tstamp>
+    </comp>
+    <comp ref="LED102">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A736D57</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A736D65</tstamp>
+    </comp>
+    <comp ref="LED103">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7399D3</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7399E1</tstamp>
+    </comp>
+    <comp ref="LED104">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7399F5</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A739A03</tstamp>
+    </comp>
+    <comp ref="LED113">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A739FFE</tstamp>
+    </comp>
+    <comp ref="C113">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A00C</tstamp>
+    </comp>
+    <comp ref="LED114">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A020</tstamp>
+    </comp>
+    <comp ref="C114">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A02E</tstamp>
+    </comp>
+    <comp ref="LED115">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A042</tstamp>
+    </comp>
+    <comp ref="C115">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A050</tstamp>
+    </comp>
+    <comp ref="LED116">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A064</tstamp>
+    </comp>
+    <comp ref="C116">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73A072</tstamp>
+    </comp>
+    <comp ref="LED125">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BB5F</tstamp>
+    </comp>
+    <comp ref="C125">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BB6D</tstamp>
+    </comp>
+    <comp ref="LED126">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BB81</tstamp>
+    </comp>
+    <comp ref="C126">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BB8F</tstamp>
+    </comp>
+    <comp ref="LED127">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BBA3</tstamp>
+    </comp>
+    <comp ref="C127">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BBB1</tstamp>
+    </comp>
+    <comp ref="LED128">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BBC5</tstamp>
+    </comp>
+    <comp ref="C128">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BBD3</tstamp>
+    </comp>
+    <comp ref="LED137">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BBE7</tstamp>
+    </comp>
+    <comp ref="C137">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BBF5</tstamp>
+    </comp>
+    <comp ref="LED138">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BC09</tstamp>
+    </comp>
+    <comp ref="C138">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BC17</tstamp>
+    </comp>
+    <comp ref="LED139">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BC2B</tstamp>
+    </comp>
+    <comp ref="C139">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BC39</tstamp>
+    </comp>
+    <comp ref="LED140">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BC4D</tstamp>
+    </comp>
+    <comp ref="C140">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73BC5B</tstamp>
+    </comp>
+    <comp ref="LED105">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D37E</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D38C</tstamp>
+    </comp>
+    <comp ref="LED106">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D3A0</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D3AE</tstamp>
+    </comp>
+    <comp ref="LED107">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D3C2</tstamp>
+    </comp>
+    <comp ref="C108">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D3D0</tstamp>
+    </comp>
+    <comp ref="LED108">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D3E4</tstamp>
+    </comp>
+    <comp ref="C109">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D3F2</tstamp>
+    </comp>
+    <comp ref="LED117">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D406</tstamp>
+    </comp>
+    <comp ref="C117">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D414</tstamp>
+    </comp>
+    <comp ref="LED118">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D428</tstamp>
+    </comp>
+    <comp ref="C118">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D436</tstamp>
+    </comp>
+    <comp ref="LED119">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D44A</tstamp>
+    </comp>
+    <comp ref="C119">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D458</tstamp>
+    </comp>
+    <comp ref="LED120">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D46C</tstamp>
+    </comp>
+    <comp ref="C120">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D47A</tstamp>
+    </comp>
+    <comp ref="LED129">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D48E</tstamp>
+    </comp>
+    <comp ref="C129">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D49C</tstamp>
+    </comp>
+    <comp ref="LED130">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D4B0</tstamp>
+    </comp>
+    <comp ref="C130">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D4BE</tstamp>
+    </comp>
+    <comp ref="LED131">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D4D2</tstamp>
+    </comp>
+    <comp ref="C131">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D4E0</tstamp>
+    </comp>
+    <comp ref="LED132">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D4F4</tstamp>
+    </comp>
+    <comp ref="C132">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D502</tstamp>
+    </comp>
+    <comp ref="LED141">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D516</tstamp>
+    </comp>
+    <comp ref="C141">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D524</tstamp>
+    </comp>
+    <comp ref="LED142">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D538</tstamp>
+    </comp>
+    <comp ref="C142">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D546</tstamp>
+    </comp>
+    <comp ref="LED143">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D55A</tstamp>
+    </comp>
+    <comp ref="C143">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D568</tstamp>
+    </comp>
+    <comp ref="LED144">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D57C</tstamp>
+    </comp>
+    <comp ref="C144">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A73D58A</tstamp>
+    </comp>
+    <comp ref="LED109">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7458C2</tstamp>
+    </comp>
+    <comp ref="C110">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7458CE</tstamp>
+    </comp>
+    <comp ref="LED110">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7458E2</tstamp>
+    </comp>
+    <comp ref="C111">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7458F0</tstamp>
+    </comp>
+    <comp ref="LED111">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745904</tstamp>
+    </comp>
+    <comp ref="C112">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745912</tstamp>
+    </comp>
+    <comp ref="LED121">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745926</tstamp>
+    </comp>
+    <comp ref="C121">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745932</tstamp>
+    </comp>
+    <comp ref="LED122">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745946</tstamp>
+    </comp>
+    <comp ref="C122">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745954</tstamp>
+    </comp>
+    <comp ref="LED123">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745968</tstamp>
+    </comp>
+    <comp ref="C123">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745976</tstamp>
+    </comp>
+    <comp ref="LED133">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A74598A</tstamp>
+    </comp>
+    <comp ref="C133">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745996</tstamp>
+    </comp>
+    <comp ref="LED134">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7459AA</tstamp>
+    </comp>
+    <comp ref="C134">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7459B8</tstamp>
+    </comp>
+    <comp ref="LED135">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7459CC</tstamp>
+    </comp>
+    <comp ref="C135">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7459DA</tstamp>
+    </comp>
+    <comp ref="LED145">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7459EE</tstamp>
+    </comp>
+    <comp ref="C145">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A7459FA</tstamp>
+    </comp>
+    <comp ref="LED146">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745A0E</tstamp>
+    </comp>
+    <comp ref="C146">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745A1C</tstamp>
+    </comp>
+    <comp ref="LED147">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745A30</tstamp>
+    </comp>
+    <comp ref="C147">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A745A3E</tstamp>
+    </comp>
+    <comp ref="SW128">
+      <value>s28</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AFE2414</tstamp>
+    </comp>
+    <comp ref="D128">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AFE241A</tstamp>
+    </comp>
+    <comp ref="LED112">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2D826D</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2D8279</tstamp>
+    </comp>
+    <comp ref="LED124">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2D8289</tstamp>
+    </comp>
+    <comp ref="C124">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2D8295</tstamp>
+    </comp>
+    <comp ref="LED136">
+      <value>WS2812B</value>
+      <footprint>Keyboard:CHERRY_MX_LED_WS2812b</footprint>
+      <libsource lib="Worldsemi" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2D82A4</tstamp>
+    </comp>
+    <comp ref="C136">
+      <value>C_Small</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2D82B0</tstamp>
+    </comp>
+    <comp ref="SW129">
+      <value>s29</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA2D</tstamp>
+    </comp>
+    <comp ref="D129">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA33</tstamp>
+    </comp>
+    <comp ref="SW130">
+      <value>s30</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA39</tstamp>
+    </comp>
+    <comp ref="D130">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA3F</tstamp>
+    </comp>
+    <comp ref="SW131">
+      <value>s31</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA45</tstamp>
+    </comp>
+    <comp ref="D131">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA4B</tstamp>
+    </comp>
+    <comp ref="SW132">
+      <value>s32</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA51</tstamp>
+    </comp>
+    <comp ref="D132">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA57</tstamp>
+    </comp>
+    <comp ref="SW133">
+      <value>s33</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA5D</tstamp>
+    </comp>
+    <comp ref="D133">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA63</tstamp>
+    </comp>
+    <comp ref="SW134">
+      <value>s34</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA69</tstamp>
+    </comp>
+    <comp ref="D134">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFA6F</tstamp>
+    </comp>
+    <comp ref="SW135">
+      <value>s35</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFB09</tstamp>
+    </comp>
+    <comp ref="D135">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2EFB0F</tstamp>
+    </comp>
+    <comp ref="SW136">
+      <value>s36</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F306A</tstamp>
+    </comp>
+    <comp ref="D136">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F3070</tstamp>
+    </comp>
+    <comp ref="SW137">
+      <value>s37</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F3076</tstamp>
+    </comp>
+    <comp ref="D137">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F307C</tstamp>
+    </comp>
+    <comp ref="SW138">
+      <value>s38</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F3082</tstamp>
+    </comp>
+    <comp ref="D138">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F3088</tstamp>
+    </comp>
+    <comp ref="SW139">
+      <value>s39</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F308E</tstamp>
+    </comp>
+    <comp ref="D139">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F3094</tstamp>
+    </comp>
+    <comp ref="SW140">
+      <value>s40</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F309A</tstamp>
+    </comp>
+    <comp ref="D140">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F30A0</tstamp>
+    </comp>
+    <comp ref="SW141">
+      <value>s41</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F30A6</tstamp>
+    </comp>
+    <comp ref="D141">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F30AC</tstamp>
+    </comp>
+    <comp ref="SW142">
+      <value>s42</value>
+      <footprint>Keyboard:CHERRY_PCB_200H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F30DB</tstamp>
+    </comp>
+    <comp ref="D142">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F30E1</tstamp>
+    </comp>
+    <comp ref="SW143">
+      <value>s43</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F42E4</tstamp>
+    </comp>
+    <comp ref="D143">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F42EA</tstamp>
+    </comp>
+    <comp ref="SW144">
+      <value>s44</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F42F0</tstamp>
+    </comp>
+    <comp ref="D144">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F42F6</tstamp>
+    </comp>
+    <comp ref="SW145">
+      <value>s45</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F42FC</tstamp>
+    </comp>
+    <comp ref="D145">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F4302</tstamp>
+    </comp>
+    <comp ref="SW146">
+      <value>s46</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F4308</tstamp>
+    </comp>
+    <comp ref="D146">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F430E</tstamp>
+    </comp>
+    <comp ref="SW147">
+      <value>s47</value>
+      <footprint>Keyboard:CHERRY_PCB_100H</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F4314</tstamp>
+    </comp>
+    <comp ref="D147">
+      <value>D</value>
+      <footprint>Keyboard:D_MiniMELF_Universal_Back</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2F431A</tstamp>
+    </comp>
+    <comp ref="U101">
+      <value>ProMicro_large</value>
+      <footprint>Keyboard:ProMicro_large</footprint>
+      <libsource lib="promicro" part="ProMicro_large"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B392638</tstamp>
+    </comp>
+    <comp ref="res1">
+      <value>SW_Push</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQP0</footprint>
+      <libsource lib="switches" part="SW_Push"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B3AAEED</tstamp>
+    </comp>
+    <comp ref="R_DIN1">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B43AEB3</tstamp>
+    </comp>
+    <comp ref="J_ledstrip1">
+      <value>Conn_01x03</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03_Pitch2.00mm</footprint>
+      <libsource lib="conn" part="Conn_01x03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B4BE32D</tstamp>
+    </comp>
+    <comp ref="J_burn1">
+      <value>Conn_01x05</value>
+      <footprint>Pin_Headers:Pin_Header_Angled_1x05_Pitch2.00mm</footprint>
+      <libsource lib="conn" part="Conn_01x05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B4CA316</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="promicro" part="ProMicro_large">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro_large</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX" type="BiDi"/>
+        <pin num="2" name="RX" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SCL" type="BiDi"/>
+        <pin num="6" name="SDA" type="BiDi"/>
+        <pin num="7" name="D4" type="BiDi"/>
+        <pin num="8" name="C6" type="BiDi"/>
+        <pin num="9" name="D7" type="BiDi"/>
+        <pin num="10" name="E6" type="BiDi"/>
+        <pin num="11" name="B4" type="BiDi"/>
+        <pin num="12" name="B5" type="BiDi"/>
+        <pin num="13" name="B6" type="BiDi"/>
+        <pin num="14" name="B2" type="BiDi"/>
+        <pin num="15" name="B3" type="BiDi"/>
+        <pin num="16" name="B1" type="BiDi"/>
+        <pin num="17" name="F7" type="BiDi"/>
+        <pin num="18" name="F6" type="BiDi"/>
+        <pin num="19" name="F5" type="BiDi"/>
+        <pin num="20" name="F4" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="switches" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Worldsemi" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LEDs:LED_WS2812B-PLCC4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="Worldsemi">
+      <uri>C:\Program Files\KiCad\share\kicad\library\Worldsemi.lib</uri>
+    </library>
+    <library logical="switches">
+      <uri>C:\Program Files\KiCad\share\kicad\library\switches.lib</uri>
+    </library>
+    <library logical="promicro">
+      <uri>C:\Users\jenei\Google Drive\Keyboards\My Keyboards\Duchamp Keyboard\duchamp_keyboard\promicro.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(LED134-Pad2)">
+      <node ref="LED134" pin="2"/>
+      <node ref="LED135" pin="4"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="LED113" pin="3"/>
+      <node ref="LED104" pin="3"/>
+      <node ref="C104" pin="1"/>
+      <node ref="C113" pin="1"/>
+      <node ref="LED124" pin="3"/>
+      <node ref="C136" pin="1"/>
+      <node ref="C101" pin="1"/>
+      <node ref="LED112" pin="3"/>
+      <node ref="LED136" pin="3"/>
+      <node ref="C124" pin="1"/>
+      <node ref="C105" pin="1"/>
+      <node ref="LED107" pin="3"/>
+      <node ref="C108" pin="1"/>
+      <node ref="C103" pin="1"/>
+      <node ref="LED117" pin="3"/>
+      <node ref="LED132" pin="3"/>
+      <node ref="LED102" pin="3"/>
+      <node ref="C102" pin="1"/>
+      <node ref="LED101" pin="3"/>
+      <node ref="LED103" pin="3"/>
+      <node ref="C121" pin="1"/>
+      <node ref="C112" pin="1"/>
+      <node ref="C144" pin="1"/>
+      <node ref="LED144" pin="3"/>
+      <node ref="LED111" pin="3"/>
+      <node ref="C111" pin="1"/>
+      <node ref="LED110" pin="3"/>
+      <node ref="LED121" pin="3"/>
+      <node ref="U101" pin="4"/>
+      <node ref="U101" pin="3"/>
+      <node ref="res1" pin="2"/>
+      <node ref="U101" pin="23"/>
+      <node ref="C110" pin="1"/>
+      <node ref="LED109" pin="3"/>
+      <node ref="J_ledstrip1" pin="1"/>
+      <node ref="LED114" pin="3"/>
+      <node ref="C116" pin="1"/>
+      <node ref="LED116" pin="3"/>
+      <node ref="C114" pin="1"/>
+      <node ref="C115" pin="1"/>
+      <node ref="C126" pin="1"/>
+      <node ref="C138" pin="1"/>
+      <node ref="LED126" pin="3"/>
+      <node ref="LED115" pin="3"/>
+      <node ref="C127" pin="1"/>
+      <node ref="LED127" pin="3"/>
+      <node ref="C137" pin="1"/>
+      <node ref="LED137" pin="3"/>
+      <node ref="C128" pin="1"/>
+      <node ref="LED138" pin="3"/>
+      <node ref="C139" pin="1"/>
+      <node ref="LED139" pin="3"/>
+      <node ref="LED128" pin="3"/>
+      <node ref="LED106" pin="3"/>
+      <node ref="C120" pin="1"/>
+      <node ref="LED120" pin="3"/>
+      <node ref="LED130" pin="3"/>
+      <node ref="C109" pin="1"/>
+      <node ref="LED108" pin="3"/>
+      <node ref="LED105" pin="3"/>
+      <node ref="C106" pin="1"/>
+      <node ref="C140" pin="1"/>
+      <node ref="C107" pin="1"/>
+      <node ref="C119" pin="1"/>
+      <node ref="LED140" pin="3"/>
+      <node ref="LED119" pin="3"/>
+      <node ref="LED125" pin="3"/>
+      <node ref="C125" pin="1"/>
+      <node ref="C129" pin="1"/>
+      <node ref="LED129" pin="3"/>
+      <node ref="C118" pin="1"/>
+      <node ref="LED118" pin="3"/>
+      <node ref="C117" pin="1"/>
+      <node ref="C147" pin="1"/>
+      <node ref="LED147" pin="3"/>
+      <node ref="LED146" pin="3"/>
+      <node ref="C146" pin="1"/>
+      <node ref="C142" pin="1"/>
+      <node ref="LED143" pin="3"/>
+      <node ref="LED141" pin="3"/>
+      <node ref="C141" pin="1"/>
+      <node ref="LED142" pin="3"/>
+      <node ref="C135" pin="1"/>
+      <node ref="LED145" pin="3"/>
+      <node ref="C145" pin="1"/>
+      <node ref="LED134" pin="3"/>
+      <node ref="C134" pin="1"/>
+      <node ref="LED122" pin="3"/>
+      <node ref="C123" pin="1"/>
+      <node ref="LED133" pin="3"/>
+      <node ref="C133" pin="1"/>
+      <node ref="C143" pin="1"/>
+      <node ref="C122" pin="1"/>
+      <node ref="LED123" pin="3"/>
+      <node ref="C132" pin="1"/>
+      <node ref="C130" pin="1"/>
+      <node ref="LED131" pin="3"/>
+      <node ref="C131" pin="1"/>
+    </net>
+    <net code="3" name="Net-(LED133-Pad2)">
+      <node ref="LED134" pin="4"/>
+      <node ref="LED133" pin="2"/>
+    </net>
+    <net code="4" name="Net-(LED144-Pad2)">
+      <node ref="LED145" pin="4"/>
+      <node ref="LED144" pin="2"/>
+    </net>
+    <net code="5" name="Net-(LED135-Pad3)">
+      <node ref="LED135" pin="3"/>
+    </net>
+    <net code="6" name="Net-(LED135-Pad2)">
+      <node ref="LED136" pin="4"/>
+      <node ref="LED135" pin="2"/>
+    </net>
+    <net code="7" name="Net-(LED122-Pad2)">
+      <node ref="LED123" pin="4"/>
+      <node ref="LED122" pin="2"/>
+    </net>
+    <net code="8" name="Net-(LED121-Pad2)">
+      <node ref="LED122" pin="4"/>
+      <node ref="LED121" pin="2"/>
+    </net>
+    <net code="9" name="Net-(LED132-Pad2)">
+      <node ref="LED133" pin="4"/>
+      <node ref="LED132" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D101-Pad2)">
+      <node ref="SW101" pin="2"/>
+      <node ref="D101" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D122-Pad2)">
+      <node ref="D122" pin="2"/>
+      <node ref="SW122" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D128-Pad2)">
+      <node ref="SW128" pin="2"/>
+      <node ref="D128" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D121-Pad2)">
+      <node ref="SW121" pin="2"/>
+      <node ref="D121" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D120-Pad2)">
+      <node ref="D120" pin="2"/>
+      <node ref="SW120" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D119-Pad2)">
+      <node ref="D119" pin="2"/>
+      <node ref="SW119" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D127-Pad2)">
+      <node ref="D127" pin="2"/>
+      <node ref="SW127" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D126-Pad2)">
+      <node ref="SW126" pin="2"/>
+      <node ref="D126" pin="2"/>
+    </net>
+    <net code="18" name="Net-(D123-Pad2)">
+      <node ref="SW123" pin="2"/>
+      <node ref="D123" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D118-Pad2)">
+      <node ref="D118" pin="2"/>
+      <node ref="SW118" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D117-Pad2)">
+      <node ref="SW117" pin="2"/>
+      <node ref="D117" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D116-Pad2)">
+      <node ref="SW116" pin="2"/>
+      <node ref="D116" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D115-Pad2)">
+      <node ref="D115" pin="2"/>
+      <node ref="SW115" pin="2"/>
+    </net>
+    <net code="23" name="Net-(LED145-Pad2)">
+      <node ref="LED145" pin="2"/>
+      <node ref="LED146" pin="4"/>
+    </net>
+    <net code="24" name="Net-(LED146-Pad2)">
+      <node ref="LED146" pin="2"/>
+      <node ref="LED147" pin="4"/>
+    </net>
+    <net code="25" name="Net-(J_ledstrip1-Pad2)">
+      <node ref="J_ledstrip1" pin="2"/>
+      <node ref="LED147" pin="2"/>
+    </net>
+    <net code="26" name="Net-(LED141-Pad2)">
+      <node ref="LED142" pin="4"/>
+      <node ref="LED141" pin="2"/>
+    </net>
+    <net code="27" name="Net-(LED140-Pad2)">
+      <node ref="LED140" pin="2"/>
+      <node ref="LED141" pin="4"/>
+    </net>
+    <net code="28" name="Net-(LED142-Pad2)">
+      <node ref="LED143" pin="4"/>
+      <node ref="LED142" pin="2"/>
+    </net>
+    <net code="29" name="Net-(LED130-Pad2)">
+      <node ref="LED131" pin="4"/>
+      <node ref="LED130" pin="2"/>
+    </net>
+    <net code="30" name="Net-(LED131-Pad2)">
+      <node ref="LED132" pin="4"/>
+      <node ref="LED131" pin="2"/>
+    </net>
+    <net code="31" name="Net-(LED110-Pad2)">
+      <node ref="LED110" pin="2"/>
+      <node ref="LED111" pin="4"/>
+    </net>
+    <net code="32" name="Net-(LED109-Pad2)">
+      <node ref="LED110" pin="4"/>
+      <node ref="LED109" pin="2"/>
+    </net>
+    <net code="33" name="Net-(LED120-Pad2)">
+      <node ref="LED120" pin="2"/>
+      <node ref="LED121" pin="4"/>
+    </net>
+    <net code="34" name="Net-(LED143-Pad2)">
+      <node ref="LED144" pin="4"/>
+      <node ref="LED143" pin="2"/>
+    </net>
+    <net code="35" name="Net-(LED108-Pad2)">
+      <node ref="LED109" pin="4"/>
+      <node ref="LED108" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D147-Pad2)">
+      <node ref="D147" pin="2"/>
+      <node ref="SW147" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D145-Pad2)">
+      <node ref="D145" pin="2"/>
+      <node ref="SW145" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D144-Pad2)">
+      <node ref="D144" pin="2"/>
+      <node ref="SW144" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D143-Pad2)">
+      <node ref="SW143" pin="2"/>
+      <node ref="D143" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D142-Pad2)">
+      <node ref="D142" pin="2"/>
+      <node ref="SW142" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D141-Pad2)">
+      <node ref="D141" pin="2"/>
+      <node ref="SW141" pin="2"/>
+    </net>
+    <net code="42" name="Net-(D140-Pad2)">
+      <node ref="SW140" pin="2"/>
+      <node ref="D140" pin="2"/>
+    </net>
+    <net code="43" name="Net-(D138-Pad2)">
+      <node ref="D138" pin="2"/>
+      <node ref="SW138" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D137-Pad2)">
+      <node ref="D137" pin="2"/>
+      <node ref="SW137" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D136-Pad2)">
+      <node ref="D136" pin="2"/>
+      <node ref="SW136" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D146-Pad2)">
+      <node ref="SW146" pin="2"/>
+      <node ref="D146" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D125-Pad2)">
+      <node ref="D125" pin="2"/>
+      <node ref="SW125" pin="2"/>
+    </net>
+    <net code="48" name="Net-(D132-Pad2)">
+      <node ref="D132" pin="2"/>
+      <node ref="SW132" pin="2"/>
+    </net>
+    <net code="49" name="Net-(LED101-Pad4)">
+      <node ref="LED101" pin="4"/>
+      <node ref="R_DIN1" pin="2"/>
+    </net>
+    <net code="50" name="Net-(J_burn1-Pad5)">
+      <node ref="J_burn1" pin="5"/>
+    </net>
+    <net code="51" name="Net-(J_burn1-Pad4)">
+      <node ref="J_burn1" pin="4"/>
+    </net>
+    <net code="52" name="Net-(J_burn1-Pad3)">
+      <node ref="J_burn1" pin="3"/>
+    </net>
+    <net code="53" name="Net-(J_burn1-Pad2)">
+      <node ref="J_burn1" pin="2"/>
+    </net>
+    <net code="54" name="Net-(J_burn1-Pad1)">
+      <node ref="J_burn1" pin="1"/>
+    </net>
+    <net code="55" name="RST">
+      <node ref="res1" pin="1"/>
+      <node ref="U101" pin="22"/>
+    </net>
+    <net code="56" name="COL10">
+      <node ref="D123" pin="1"/>
+      <node ref="D146" pin="1"/>
+      <node ref="D111" pin="1"/>
+      <node ref="U101" pin="19"/>
+      <node ref="D135" pin="1"/>
+    </net>
+    <net code="57" name="COL9">
+      <node ref="D145" pin="1"/>
+      <node ref="D110" pin="1"/>
+      <node ref="D122" pin="1"/>
+      <node ref="D134" pin="1"/>
+      <node ref="U101" pin="18"/>
+    </net>
+    <net code="58" name="COL8">
+      <node ref="U101" pin="17"/>
+      <node ref="D121" pin="1"/>
+      <node ref="D144" pin="1"/>
+      <node ref="D109" pin="1"/>
+      <node ref="D133" pin="1"/>
+    </net>
+    <net code="59" name="Net-(U101-Pad24)">
+      <node ref="U101" pin="24"/>
+    </net>
+    <net code="60" name="DIN">
+      <node ref="R_DIN1" pin="1"/>
+      <node ref="U101" pin="12"/>
+    </net>
+    <net code="61" name="COL11">
+      <node ref="D136" pin="1"/>
+      <node ref="D112" pin="1"/>
+      <node ref="D147" pin="1"/>
+      <node ref="D124" pin="1"/>
+      <node ref="U101" pin="20"/>
+    </net>
+    <net code="62" name="ROW3">
+      <node ref="SW139" pin="1"/>
+      <node ref="SW138" pin="1"/>
+      <node ref="SW145" pin="1"/>
+      <node ref="SW146" pin="1"/>
+      <node ref="SW147" pin="1"/>
+      <node ref="SW142" pin="1"/>
+      <node ref="SW144" pin="1"/>
+      <node ref="SW143" pin="1"/>
+      <node ref="SW137" pin="1"/>
+      <node ref="SW140" pin="1"/>
+      <node ref="U101" pin="9"/>
+      <node ref="SW141" pin="1"/>
+    </net>
+    <net code="63" name="ROW2">
+      <node ref="SW128" pin="1"/>
+      <node ref="SW136" pin="1"/>
+      <node ref="SW135" pin="1"/>
+      <node ref="SW132" pin="1"/>
+      <node ref="SW134" pin="1"/>
+      <node ref="SW131" pin="1"/>
+      <node ref="SW133" pin="1"/>
+      <node ref="SW127" pin="1"/>
+      <node ref="SW130" pin="1"/>
+      <node ref="SW129" pin="1"/>
+      <node ref="SW126" pin="1"/>
+      <node ref="SW125" pin="1"/>
+      <node ref="U101" pin="8"/>
+    </net>
+    <net code="64" name="ROW1">
+      <node ref="SW113" pin="1"/>
+      <node ref="SW121" pin="1"/>
+      <node ref="SW122" pin="1"/>
+      <node ref="SW123" pin="1"/>
+      <node ref="SW124" pin="1"/>
+      <node ref="SW114" pin="1"/>
+      <node ref="SW115" pin="1"/>
+      <node ref="SW116" pin="1"/>
+      <node ref="SW118" pin="1"/>
+      <node ref="SW119" pin="1"/>
+      <node ref="SW120" pin="1"/>
+      <node ref="SW117" pin="1"/>
+      <node ref="U101" pin="7"/>
+    </net>
+    <net code="65" name="ROW0">
+      <node ref="SW108" pin="1"/>
+      <node ref="SW109" pin="1"/>
+      <node ref="SW110" pin="1"/>
+      <node ref="SW111" pin="1"/>
+      <node ref="SW112" pin="1"/>
+      <node ref="SW102" pin="1"/>
+      <node ref="SW103" pin="1"/>
+      <node ref="SW104" pin="1"/>
+      <node ref="SW105" pin="1"/>
+      <node ref="SW106" pin="1"/>
+      <node ref="SW107" pin="1"/>
+      <node ref="U101" pin="6"/>
+      <node ref="SW101" pin="1"/>
+    </net>
+    <net code="66" name="Net-(U101-Pad5)">
+      <node ref="U101" pin="5"/>
+    </net>
+    <net code="68" name="Net-(LED136-Pad2)">
+      <node ref="LED136" pin="2"/>
+      <node ref="LED137" pin="4"/>
+    </net>
+    <net code="69" name="Net-(LED124-Pad2)">
+      <node ref="LED125" pin="4"/>
+      <node ref="LED124" pin="2"/>
+    </net>
+    <net code="70" name="Net-(LED123-Pad2)">
+      <node ref="LED124" pin="4"/>
+      <node ref="LED123" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D131-Pad2)">
+      <node ref="SW131" pin="2"/>
+      <node ref="D131" pin="2"/>
+    </net>
+    <net code="72" name="Net-(D129-Pad2)">
+      <node ref="D129" pin="2"/>
+      <node ref="SW129" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D130-Pad2)">
+      <node ref="D130" pin="2"/>
+      <node ref="SW130" pin="2"/>
+    </net>
+    <net code="74" name="Net-(LED111-Pad2)">
+      <node ref="LED112" pin="4"/>
+      <node ref="LED111" pin="2"/>
+    </net>
+    <net code="75" name="Net-(LED112-Pad2)">
+      <node ref="LED112" pin="2"/>
+      <node ref="LED113" pin="4"/>
+    </net>
+    <net code="76" name="Net-(D139-Pad2)">
+      <node ref="D139" pin="2"/>
+      <node ref="SW139" pin="2"/>
+    </net>
+    <net code="77" name="Net-(D134-Pad2)">
+      <node ref="D134" pin="2"/>
+      <node ref="SW134" pin="2"/>
+    </net>
+    <net code="78" name="Net-(D133-Pad2)">
+      <node ref="D133" pin="2"/>
+      <node ref="SW133" pin="2"/>
+    </net>
+    <net code="79" name="Net-(D135-Pad2)">
+      <node ref="SW135" pin="2"/>
+      <node ref="D135" pin="2"/>
+    </net>
+    <net code="80" name="COL3">
+      <node ref="D116" pin="1"/>
+      <node ref="D128" pin="1"/>
+      <node ref="D104" pin="1"/>
+      <node ref="U101" pin="11"/>
+      <node ref="D140" pin="1"/>
+    </net>
+    <net code="81" name="COL7">
+      <node ref="D143" pin="1"/>
+      <node ref="D108" pin="1"/>
+      <node ref="U101" pin="16"/>
+      <node ref="D132" pin="1"/>
+      <node ref="D120" pin="1"/>
+    </net>
+    <net code="82" name="COL2">
+      <node ref="D115" pin="1"/>
+      <node ref="D103" pin="1"/>
+      <node ref="D139" pin="1"/>
+      <node ref="D127" pin="1"/>
+      <node ref="U101" pin="10"/>
+    </net>
+    <net code="83" name="COL6">
+      <node ref="D107" pin="1"/>
+      <node ref="U101" pin="15"/>
+      <node ref="D119" pin="1"/>
+      <node ref="D131" pin="1"/>
+    </net>
+    <net code="84" name="COL5">
+      <node ref="D142" pin="1"/>
+      <node ref="D106" pin="1"/>
+      <node ref="U101" pin="14"/>
+      <node ref="D130" pin="1"/>
+      <node ref="D118" pin="1"/>
+    </net>
+    <net code="85" name="COL0">
+      <node ref="D101" pin="1"/>
+      <node ref="D137" pin="1"/>
+      <node ref="D113" pin="1"/>
+      <node ref="U101" pin="1"/>
+      <node ref="D125" pin="1"/>
+    </net>
+    <net code="86" name="COL4">
+      <node ref="D129" pin="1"/>
+      <node ref="D105" pin="1"/>
+      <node ref="D117" pin="1"/>
+      <node ref="U101" pin="13"/>
+      <node ref="D141" pin="1"/>
+    </net>
+    <net code="87" name="Net-(D103-Pad2)">
+      <node ref="D103" pin="2"/>
+      <node ref="SW103" pin="2"/>
+    </net>
+    <net code="88" name="Net-(D108-Pad2)">
+      <node ref="D108" pin="2"/>
+      <node ref="SW108" pin="2"/>
+    </net>
+    <net code="89" name="Net-(D110-Pad2)">
+      <node ref="SW110" pin="2"/>
+      <node ref="D110" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D109-Pad2)">
+      <node ref="D109" pin="2"/>
+      <node ref="SW109" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D111-Pad2)">
+      <node ref="SW111" pin="2"/>
+      <node ref="D111" pin="2"/>
+    </net>
+    <net code="92" name="Net-(LED103-Pad2)">
+      <node ref="LED103" pin="2"/>
+      <node ref="LED104" pin="4"/>
+    </net>
+    <net code="93" name="Net-(LED104-Pad2)">
+      <node ref="LED105" pin="4"/>
+      <node ref="LED104" pin="2"/>
+    </net>
+    <net code="94" name="Net-(LED101-Pad2)">
+      <node ref="LED102" pin="4"/>
+      <node ref="LED101" pin="2"/>
+    </net>
+    <net code="95" name="COL1">
+      <node ref="U101" pin="2"/>
+      <node ref="D138" pin="1"/>
+      <node ref="D114" pin="1"/>
+      <node ref="D102" pin="1"/>
+      <node ref="D126" pin="1"/>
+    </net>
+    <net code="96" name="Net-(LED102-Pad2)">
+      <node ref="LED102" pin="2"/>
+      <node ref="LED103" pin="4"/>
+    </net>
+    <net code="97" name="Net-(D114-Pad2)">
+      <node ref="SW114" pin="2"/>
+      <node ref="D114" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D124-Pad2)">
+      <node ref="D124" pin="2"/>
+      <node ref="SW124" pin="2"/>
+    </net>
+    <net code="99" name="Net-(D113-Pad2)">
+      <node ref="D113" pin="2"/>
+      <node ref="SW113" pin="2"/>
+    </net>
+    <net code="100" name="Net-(D106-Pad2)">
+      <node ref="D106" pin="2"/>
+      <node ref="SW106" pin="2"/>
+    </net>
+    <net code="101" name="Net-(D105-Pad2)">
+      <node ref="SW105" pin="2"/>
+      <node ref="D105" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D104-Pad2)">
+      <node ref="SW104" pin="2"/>
+      <node ref="D104" pin="2"/>
+    </net>
+    <net code="103" name="Net-(D102-Pad2)">
+      <node ref="SW102" pin="2"/>
+      <node ref="D102" pin="2"/>
+    </net>
+    <net code="104" name="Net-(D112-Pad2)">
+      <node ref="SW112" pin="2"/>
+      <node ref="D112" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D107-Pad2)">
+      <node ref="D107" pin="2"/>
+      <node ref="SW107" pin="2"/>
+    </net>
+    <net code="106" name="Net-(LED107-Pad2)">
+      <node ref="LED107" pin="2"/>
+      <node ref="LED108" pin="4"/>
+    </net>
+    <net code="107" name="Net-(LED106-Pad2)">
+      <node ref="LED106" pin="2"/>
+      <node ref="LED107" pin="4"/>
+    </net>
+    <net code="108" name="Net-(LED116-Pad2)">
+      <node ref="LED116" pin="2"/>
+      <node ref="LED117" pin="4"/>
+    </net>
+    <net code="109" name="Net-(LED139-Pad2)">
+      <node ref="LED140" pin="4"/>
+      <node ref="LED139" pin="2"/>
+    </net>
+    <net code="110" name="Net-(LED105-Pad2)">
+      <node ref="LED105" pin="2"/>
+      <node ref="LED106" pin="4"/>
+    </net>
+    <net code="111" name="Net-(LED119-Pad2)">
+      <node ref="LED120" pin="4"/>
+      <node ref="LED119" pin="2"/>
+    </net>
+    <net code="112" name="Net-(LED129-Pad2)">
+      <node ref="LED130" pin="4"/>
+      <node ref="LED129" pin="2"/>
+    </net>
+    <net code="113" name="Net-(LED117-Pad2)">
+      <node ref="LED117" pin="2"/>
+      <node ref="LED118" pin="4"/>
+    </net>
+    <net code="114" name="Net-(LED118-Pad2)">
+      <node ref="LED119" pin="4"/>
+      <node ref="LED118" pin="2"/>
+    </net>
+    <net code="115" name="Net-(LED126-Pad2)">
+      <node ref="LED127" pin="4"/>
+      <node ref="LED126" pin="2"/>
+    </net>
+    <net code="116" name="Net-(LED125-Pad2)">
+      <node ref="LED125" pin="2"/>
+      <node ref="LED126" pin="4"/>
+    </net>
+    <net code="117" name="Net-(LED114-Pad2)">
+      <node ref="LED115" pin="4"/>
+      <node ref="LED114" pin="2"/>
+    </net>
+    <net code="118" name="Net-(LED113-Pad2)">
+      <node ref="LED114" pin="4"/>
+      <node ref="LED113" pin="2"/>
+    </net>
+    <net code="119" name="Net-(LED115-Pad2)">
+      <node ref="LED116" pin="4"/>
+      <node ref="LED115" pin="2"/>
+    </net>
+    <net code="120" name="Net-(LED137-Pad2)">
+      <node ref="LED138" pin="4"/>
+      <node ref="LED137" pin="2"/>
+    </net>
+    <net code="121" name="Net-(LED138-Pad2)">
+      <node ref="LED138" pin="2"/>
+      <node ref="LED139" pin="4"/>
+    </net>
+    <net code="122" name="Net-(LED127-Pad2)">
+      <node ref="LED127" pin="2"/>
+      <node ref="LED128" pin="4"/>
+    </net>
+    <net code="123" name="Net-(LED128-Pad2)">
+      <node ref="LED128" pin="2"/>
+      <node ref="LED129" pin="4"/>
+    </net>
+    <net code="124" name="VCC">
+      <node ref="C137" pin="2"/>
+      <node ref="LED110" pin="1"/>
+      <node ref="C122" pin="2"/>
+      <node ref="C134" pin="2"/>
+      <node ref="C143" pin="2"/>
+      <node ref="LED126" pin="1"/>
+      <node ref="LED115" pin="1"/>
+      <node ref="C114" pin="2"/>
+      <node ref="LED132" pin="1"/>
+      <node ref="LED122" pin="1"/>
+      <node ref="C128" pin="2"/>
+      <node ref="LED125" pin="1"/>
+      <node ref="LED137" pin="1"/>
+      <node ref="C111" pin="2"/>
+      <node ref="C116" pin="2"/>
+      <node ref="C126" pin="2"/>
+      <node ref="LED141" pin="1"/>
+      <node ref="LED138" pin="1"/>
+      <node ref="LED111" pin="1"/>
+      <node ref="C138" pin="2"/>
+      <node ref="C142" pin="2"/>
+      <node ref="LED139" pin="1"/>
+      <node ref="C135" pin="2"/>
+      <node ref="C110" pin="2"/>
+      <node ref="C139" pin="2"/>
+      <node ref="LED140" pin="1"/>
+      <node ref="LED109" pin="1"/>
+      <node ref="LED145" pin="1"/>
+      <node ref="C132" pin="2"/>
+      <node ref="C145" pin="2"/>
+      <node ref="LED134" pin="1"/>
+      <node ref="U101" pin="21"/>
+      <node ref="LED143" pin="1"/>
+      <node ref="LED123" pin="1"/>
+      <node ref="C131" pin="2"/>
+      <node ref="LED114" pin="1"/>
+      <node ref="C127" pin="2"/>
+      <node ref="J_ledstrip1" pin="3"/>
+      <node ref="C115" pin="2"/>
+      <node ref="LED144" pin="1"/>
+      <node ref="LED135" pin="1"/>
+      <node ref="LED127" pin="1"/>
+      <node ref="LED116" pin="1"/>
+      <node ref="LED128" pin="1"/>
+      <node ref="C104" pin="2"/>
+      <node ref="LED108" pin="1"/>
+      <node ref="C112" pin="2"/>
+      <node ref="C109" pin="2"/>
+      <node ref="C113" pin="2"/>
+      <node ref="C147" pin="2"/>
+      <node ref="LED117" pin="1"/>
+      <node ref="C105" pin="2"/>
+      <node ref="C107" pin="2"/>
+      <node ref="LED106" pin="1"/>
+      <node ref="C140" pin="2"/>
+      <node ref="LED147" pin="1"/>
+      <node ref="LED105" pin="1"/>
+      <node ref="LED121" pin="1"/>
+      <node ref="LED101" pin="1"/>
+      <node ref="LED103" pin="1"/>
+      <node ref="LED146" pin="1"/>
+      <node ref="C103" pin="2"/>
+      <node ref="C121" pin="2"/>
+      <node ref="LED107" pin="1"/>
+      <node ref="C146" pin="2"/>
+      <node ref="C108" pin="2"/>
+      <node ref="LED113" pin="1"/>
+      <node ref="LED131" pin="1"/>
+      <node ref="C102" pin="2"/>
+      <node ref="LED102" pin="1"/>
+      <node ref="C123" pin="2"/>
+      <node ref="C117" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="LED118" pin="1"/>
+      <node ref="C141" pin="2"/>
+      <node ref="C118" pin="2"/>
+      <node ref="LED124" pin="1"/>
+      <node ref="C133" pin="2"/>
+      <node ref="C125" pin="2"/>
+      <node ref="LED112" pin="1"/>
+      <node ref="LED133" pin="1"/>
+      <node ref="LED119" pin="1"/>
+      <node ref="C130" pin="2"/>
+      <node ref="C119" pin="2"/>
+      <node ref="C124" pin="2"/>
+      <node ref="C120" pin="2"/>
+      <node ref="LED136" pin="1"/>
+      <node ref="LED129" pin="1"/>
+      <node ref="C106" pin="2"/>
+      <node ref="LED142" pin="1"/>
+      <node ref="LED104" pin="1"/>
+      <node ref="C129" pin="2"/>
+      <node ref="LED130" pin="1"/>
+      <node ref="C144" pin="2"/>
+      <node ref="LED120" pin="1"/>
+      <node ref="C136" pin="2"/>
+    </net>
+  </nets>
+</export>
