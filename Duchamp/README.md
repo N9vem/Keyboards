@@ -26,5 +26,9 @@ KNOWN ISSUES
 - the switch distance are set for standard instead of 19 mm which can make them incompatible with planck switch plates.
 - no mounting holes
 
+The case for the keyboard is untested
+
+![Duchamp keyboard case v0 1](https://user-images.githubusercontent.com/22597009/227773212-6cde6cca-6904-40f0-b02e-397cda24ff48.png)
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
